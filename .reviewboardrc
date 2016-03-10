@@ -1,2 +1,2 @@
 REVIEWBOARD_URL = 'http://vagrant.reviewboard:8080/'
-REPOSITORY = 'HelloWorld'
+REPOSITORY = 'HelloWorld.git'
